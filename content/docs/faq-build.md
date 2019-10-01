@@ -14,7 +14,7 @@ No! Check out ["React Without JSX"](/docs/react-without-jsx.html) to learn more.
 
 No! Check out ["React Without ES6"](/docs/react-without-es6.html) to learn more.
 
-### How can I write comments in JSX? {#how-can-i-write-comments-in-jsx}
+### How do I write comments in JSX? {#how-can-i-write-comments-in-jsx}
 
 ```jsx
 <div>
